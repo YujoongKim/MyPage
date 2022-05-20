@@ -1,1 +1,3 @@
-# yujoongkim.github.io
+```
+npm install angular-cli-ghpages
+```
